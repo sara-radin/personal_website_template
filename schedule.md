@@ -10,10 +10,26 @@ comments: true
 
 # Class schedule
 | Day | Classes |
+
 | ----------- | ----------- |
+
 | Saturday | computer - physics - English language -literature |
+
+
+
 | Sunday | computer - computer - mathematics |
+
+
+
+
+
 | Monday | industry acknowledgment - physics -English language |
+
+
+
+
+
+
 | Tuesday | computer - computer - mathematics - literature  |
 
 
